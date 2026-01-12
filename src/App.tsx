@@ -1,10 +1,10 @@
-import { SendEnHilsen } from './components/useStateHilsen'
+import { Counter } from './components/Counter'
 import './App.css'
 
 function App() {
   return (
     <>
-      <SendEnHilsen/>
+      <Counter/>
     </>
   )
 }
