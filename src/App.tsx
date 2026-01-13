@@ -1,12 +1,7 @@
-import { SendEnHilsen } from './components/useStateHilsen'
-import './App.css'
+import { StopWatch } from './components/StopWatch'
 
 function App() {
-  return (
-    <>
-      <SendEnHilsen/>
-    </>
-  )
+  return <StopWatch />
 }
 
 export default App
